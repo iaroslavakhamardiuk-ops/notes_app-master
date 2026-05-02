@@ -13,6 +13,6 @@
 
 ### Login for guests
 Email: guests@gmail.com
-Password: iamguest
+Password: iamguestnn
 
 ## Enjoy and learn :smile:
