@@ -4,7 +4,7 @@
 # [Click to download](https://github.com/Helium-He/Notes_app/raw/master/raws/Notes_app.apk)
 
 ### Features
-* Firebase
+* Firebasesx
 * simple
 * beautiful gui
 * Good for beginners
