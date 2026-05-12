@@ -5,7 +5,7 @@
 
 ### Features
 * Firebase
-* simple
+* simplecas
 * beautiful gui
 * Good for beginners
 ## ScreenShots
