@@ -7,7 +7,7 @@
 * Firebase
 * simple
 * beautiful gui
-* Good for beginners
+* Good for beginnerscz
 ## ScreenShots
 ![alt text](https://github.com/Helium-He/Notes_app/blob/master/raws/screens.png "Logo Title Text 1")
 
