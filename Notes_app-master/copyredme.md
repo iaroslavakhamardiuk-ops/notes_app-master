@@ -3,7 +3,7 @@
 
 # [Click to download](https://github.com/Helium-He/Notes_app/raw/master/raws/Notes_app.apk)
 
-### Features
+### Featuress
 * Firebase
 * simple
 * beautiful gui
